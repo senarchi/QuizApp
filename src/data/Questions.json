@@ -1,0 +1,23 @@
+{"data":
+[
+    {
+        "title":"Who is the current President of India?",
+        "options":["Manmohan Singh","Droupadi Murmu","Ram Nath Kovind","Narendra Modi"],
+        "correctAnswerIndex":"1"
+    },
+    {
+        "title":"Who is the current Prime Minister of UK?",
+        "options":["Boris Johnson","Donald Trump","Rishi Sunak","Sajid Javid"],
+        "correctAnswerIndex":"2"
+    },
+    {
+        "title":"FIFA World Cup 2022 will be held in?",
+        "options":["England","Germany","Brazil","Qatar"],
+        "correctAnswerIndex":"3"
+    },
+    {
+        "title":"Who among the following directors won Oscar?",
+        "options":["Satyajit Ray","Rituparno Ghosh","Aparna Sen","Kaushik Ganguly"],
+        "correctAnswerIndex":"0"
+    }
+]}
