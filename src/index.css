@@ -190,13 +190,19 @@ background-color: #fff;
     overflow: hidden;  
     
  }
+ .result{
+  position: relative;
+  bottom: 12%;
+ }
 
  .correct{
   width: 80%;
   text-align: center;
   /* border: 1px solid black; */
+  position: relative;
+  bottom: 8%;
   padding: 20px;
-  margin: 40px;
+  margin: 20px;
   border-radius: 10px;
   background-color: rgba(147, 235, 174, 0.438);
  }
@@ -205,8 +211,10 @@ background-color: #fff;
   width: 80%;
     text-align: center;
     /* border: 1px solid black; */
+    position: relative;
+      bottom: 8%;
     padding: 20px;
-    margin: 40px;
+    margin: 20px;
     border-radius: 10px;
     background-color: rgba(235, 153, 147, 0.438);
  }
